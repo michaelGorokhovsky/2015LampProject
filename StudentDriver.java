@@ -1,5 +1,4 @@
 /* Sample Driver/Test/Harness for CPS109 Assignment 1 Fall 2015 "Lamp" -- student version.
- * This software is without warranty. Use at your own risk...alex wrote it.
  */
 
 public class StudentDriver
@@ -60,10 +59,6 @@ public class StudentDriver
         System.out.println("Switch is on? " + bSwitch.state() +
             " Plug is on? " + bPlug.state());
 
-            /* ... 
-             * I bet there is a lot more to test. What happens if you have more than 1 lamp? 
-             * What happens if you flip and flip again? What happens if you press the button and flip?
-             * Better come up with a set of tests that covers your code's execution under all 
-             * the cases you can come up with. Oh, yeah, and explain what you are testing! */
+            
    }
 }
